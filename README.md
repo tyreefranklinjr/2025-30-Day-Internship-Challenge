@@ -39,16 +39,16 @@ Real-time project management dashboard with drag-and-drop functionality.
 **Tech Stack:** React, Firebase, Tailwind CSS  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-###56. **Open Source Contributions**
+### 5. **Open Source Contributions**
 Contributed to [Project Name] - [Brief description of contribution].  
 🔗 [View PR](#)
 
-###67. **AI Resume Screener**
+### 6. **AI Resume Screener**
 ML tool simulating ATS resume screening to optimize job applications.  
 **Tech Stack:** Python, scikit-learn, Flask  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-###78. **ML Image Classifier**
+### 7. **ML Image Classifier**
 Deployable web app for real-time image classification using computer vision.  
 **Tech Stack:** Python, TensorFlow, Streamlit  
 🔗 [View Project](#) | 📝 [Read More](#)

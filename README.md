@@ -34,21 +34,21 @@ AI-powered tool for automated sentiment classification of product reviews.
 **Tech Stack:** Python, NLTK, HuggingFace  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-###5. **Project Dashboard (Kanban Board)**
+### 4. **Project Dashboard (Kanban Board)**
 Real-time project management dashboard with drag-and-drop functionality.  
 **Tech Stack:** React, Firebase, Tailwind CSS  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-### 6. **Open Source Contributions**
+###56. **Open Source Contributions**
 Contributed to [Project Name] - [Brief description of contribution].  
 🔗 [View PR](#)
 
-### 7. **AI Resume Screener**
+###67. **AI Resume Screener**
 ML tool simulating ATS resume screening to optimize job applications.  
 **Tech Stack:** Python, scikit-learn, Flask  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-### 8. **ML Image Classifier**
+###78. **ML Image Classifier**
 Deployable web app for real-time image classification using computer vision.  
 **Tech Stack:** Python, TensorFlow, Streamlit  
 🔗 [View Project](#) | 📝 [Read More](#)

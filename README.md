@@ -23,6 +23,7 @@ A complete 30-day intensive bootcamp designed to secure a summer 2026 internship
 ### 1. **n8n AI Amazon Rug Market Research Automation**
 Intelligent web scraping workflow that automates Amazon rug market trend discovery using AI classification, multi-source data aggregation, and automated HTML report generation.
 **Tech Stack:** n8n, Google Gemini LLM, LangChain, JavaScript/Python nodes, RSS/HTTP
+
 🔗 [View Project](https://github.com/tyreefranklinjr/n8n-AI-Automations/tree/main/Market-Trend-Discovery-Agent) | 📝 [Read More](https://github.com/tyreefranklinjr/n8n-AI-Automations/tree/main/Market-Trend-Discovery-Agent)
 
 ### 2. **Market Data Insights**

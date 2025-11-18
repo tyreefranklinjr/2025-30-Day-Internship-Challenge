@@ -20,11 +20,10 @@ A complete 30-day intensive bootcamp designed to secure a summer 2026 internship
 
 ## 💻 Projects Completed
 
-### 1. **Task Tracker Web App**
-Full-stack task management app with user authentication and CRUD functionality.  
-**Tech Stack:** React, Node.js, MongoDB  
-🔗 [View Project](#) | 📝 [Read More](#)
-
+### 1. **n8n AI Amazon Rug Market Research Automation**
+Intelligent web scraping workflow that automates Amazon rug market trend discovery using AI classification, multi-source data aggregation, and automated HTML report generation.
+**Tech Stack:** n8n, Google Gemini LLM, LangChain, JavaScript/Python nodes, RSS/HTTP
+🔗 [View Project](#) | 📝 [Read More](https://github.com/tyreefranklinjr/n8n-AI-Automations/tree/main/Market-Trend-Discovery-Agent)
 ### 2. **Market Data Insights**
 Python-based data analysis of financial market trends with interactive visualizations.  
 **Tech Stack:** Python, Pandas, Matplotlib, Jupyter  
@@ -35,11 +34,7 @@ AI-powered tool for automated sentiment classification of product reviews.
 **Tech Stack:** Python, NLTK, HuggingFace  
 🔗 [View Project](#) | 📝 [Read More](#)
 
-### 4. **n8n AI Amazon Rug Market Research Automation**
-Intelligent web scraping workflow that automates Amazon rug market trend discovery using AI classification, multi-source data aggregation, and automated HTML report generation.
-**Tech Stack:** n8n, Google Gemini LLM, LangChain, JavaScript/Python nodes, RSS/HTTP
-🔗 [View Project](#) | 📝 [Read More](https://github.com/tyreefranklinjr/n8n-AI-Automations/tree/main/Market-Trend-Discovery-Agent)
-### 5. **Project Dashboard (Kanban Board)**
+###5. **Project Dashboard (Kanban Board)**
 Real-time project management dashboard with drag-and-drop functionality.  
 **Tech Stack:** React, Firebase, Tailwind CSS  
 🔗 [View Project](#) | 📝 [Read More](#)
